@@ -1,0 +1,13 @@
+{
+    "name": "sitmpcz/filemem-response",
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "ext-sqlsrv": "*",
+        "nette/http": "=>3.0"
+    },
+    "minimum-stability": "dev",    
+    "autoload": {
+		"classmap": ["src/"]
+    }     
+}
