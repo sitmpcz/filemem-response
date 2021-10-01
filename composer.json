@@ -1,5 +1,8 @@
 {
     "name": "sitmpcz/filemem-response",
+    "description": "Response file from memory for Nette (when read file from DB)",
+    "homepage": "https://sitmp.cz",
+    "license": "GPL-3.0",	
     "type": "library",
     "require": {
         "php": ">=7.4",
